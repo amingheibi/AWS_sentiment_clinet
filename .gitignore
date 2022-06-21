@@ -1,3 +1,5 @@
 output/
 setting.py
 __pycache__/
+input.csv
+output.csv
