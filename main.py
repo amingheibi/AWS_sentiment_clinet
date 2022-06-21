@@ -1,9 +1,6 @@
 import boto3
-import os
 import setting
 from time import sleep
-import requests
-import re
 import csv
 
 # Comprehend client
